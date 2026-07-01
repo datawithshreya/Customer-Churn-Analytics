@@ -1,0 +1,151 @@
+product_id,product_name,category,sub_category,price,cost,stock_qty,supplier,rating,review_count
+PROD0001,Office Supplies Item 1,Office Supplies,Office Supplies Sub-4,24.9,13.68,25,Supplier-9,2.6,726
+PROD0002,Sports Item 2,Sports,Sports Sub-1,114.1,48.79,404,Supplier-3,4.5,867
+PROD0003,Clothing Item 3,Clothing,Clothing Sub-3,68.44,32.72,253,Supplier-18,4.1,362
+PROD0004,Automotive Item 4,Automotive,Automotive Sub-3,5.0,2.76,413,Supplier-18,3.9,682
+PROD0005,Toys Item 5,Toys,Toys Sub-3,13.41,5.12,476,Supplier-15,4.0,1759
+PROD0006,Toys Item 6,Toys,Toys Sub-2,77.47,33.92,23,Supplier-20,4.8,1437
+PROD0007,Books Item 7,Books,Books Sub-4,37.96,17.66,127,Supplier-9,4.8,879
+PROD0008,Electronics Item 8,Electronics,Electronics Sub-3,13.18,6.4,159,Supplier-5,2.7,23
+PROD0009,Home & Garden Item 9,Home & Garden,Home & Garden Sub-3,18.72,7.13,72,Supplier-6,5.0,728
+PROD0010,Office Supplies Item 10,Office Supplies,Office Supplies Sub-2,5.96,3.56,208,Supplier-9,3.9,256
+PROD0011,Electronics Item 11,Electronics,Electronics Sub-2,30.58,13.14,204,Supplier-18,4.2,466
+PROD0012,Office Supplies Item 12,Office Supplies,Office Supplies Sub-1,242.17,148.72,70,Supplier-9,3.5,309
+PROD0013,Food & Grocery Item 13,Food & Grocery,Food & Grocery Sub-4,68.34,36.26,34,Supplier-14,2.6,1706
+PROD0014,Clothing Item 14,Clothing,Clothing Sub-1,237.79,104.62,109,Supplier-4,4.0,1549
+PROD0015,Sports Item 15,Sports,Sports Sub-3,73.27,40.18,307,Supplier-6,5.0,1788
+PROD0016,Sports Item 16,Sports,Sports Sub-4,83.49,31.93,109,Supplier-16,4.3,1831
+PROD0017,Electronics Item 17,Electronics,Electronics Sub-3,195.72,79.46,127,Supplier-2,4.8,657
+PROD0018,Food & Grocery Item 18,Food & Grocery,Food & Grocery Sub-1,46.5,21.86,399,Supplier-1,4.8,737
+PROD0019,Books Item 19,Books,Books Sub-3,27.98,13.95,134,Supplier-4,4.0,878
+PROD0020,Beauty Item 20,Beauty,Beauty Sub-1,83.88,51.33,356,Supplier-10,3.2,1613
+PROD0021,Office Supplies Item 21,Office Supplies,Office Supplies Sub-4,122.54,57.67,32,Supplier-16,4.4,991
+PROD0022,Clothing Item 22,Clothing,Clothing Sub-2,21.5,12.04,304,Supplier-18,3.9,1119
+PROD0023,Electronics Item 23,Electronics,Electronics Sub-1,17.3,10.55,236,Supplier-18,2.9,556
+PROD0024,Clothing Item 24,Clothing,Clothing Sub-4,37.52,16.18,264,Supplier-4,4.5,1719
+PROD0025,Beauty Item 25,Beauty,Beauty Sub-2,69.99,43.8,320,Supplier-13,4.9,1118
+PROD0026,Toys Item 26,Toys,Toys Sub-2,67.92,38.01,297,Supplier-13,4.2,1125
+PROD0027,Automotive Item 27,Automotive,Automotive Sub-3,9.19,5.78,195,Supplier-19,3.3,1827
+PROD0028,Clothing Item 28,Clothing,Clothing Sub-3,185.02,83.64,133,Supplier-11,4.5,100
+PROD0029,Clothing Item 29,Clothing,Clothing Sub-1,18.6,9.93,369,Supplier-20,4.2,119
+PROD0030,Automotive Item 30,Automotive,Automotive Sub-3,26.09,11.06,475,Supplier-13,4.7,91
+PROD0031,Beauty Item 31,Beauty,Beauty Sub-1,14.7,5.46,40,Supplier-14,4.2,126
+PROD0032,Sports Item 32,Sports,Sports Sub-4,375.59,154.8,160,Supplier-8,3.5,1452
+PROD0033,Home & Garden Item 33,Home & Garden,Home & Garden Sub-1,41.18,20.77,133,Supplier-11,3.4,114
+PROD0034,Toys Item 34,Toys,Toys Sub-4,15.4,5.43,12,Supplier-20,4.1,1172
+PROD0035,Books Item 35,Books,Books Sub-2,72.06,31.68,497,Supplier-19,3.1,96
+PROD0036,Books Item 36,Books,Books Sub-4,66.17,42.98,349,Supplier-9,4.5,1516
+PROD0037,Food & Grocery Item 37,Food & Grocery,Food & Grocery Sub-4,27.97,13.41,210,Supplier-2,3.3,892
+PROD0038,Books Item 38,Books,Books Sub-2,70.57,25.0,404,Supplier-10,3.3,1771
+PROD0039,Beauty Item 39,Beauty,Beauty Sub-4,15.76,9.09,174,Supplier-18,4.7,1169
+PROD0040,Automotive Item 40,Automotive,Automotive Sub-3,21.25,12.33,493,Supplier-8,3.0,1037
+PROD0041,Office Supplies Item 41,Office Supplies,Office Supplies Sub-1,5.42,2.59,124,Supplier-12,3.1,828
+PROD0042,Toys Item 42,Toys,Toys Sub-2,10.06,6.1,94,Supplier-14,3.3,592
+PROD0043,Electronics Item 43,Electronics,Electronics Sub-1,168.49,79.01,171,Supplier-20,4.0,468
+PROD0044,Electronics Item 44,Electronics,Electronics Sub-1,145.08,81.02,345,Supplier-14,2.9,382
+PROD0045,Clothing Item 45,Clothing,Clothing Sub-2,35.14,13.9,92,Supplier-15,3.6,1805
+PROD0046,Automotive Item 46,Automotive,Automotive Sub-4,147.92,65.56,68,Supplier-11,4.0,799
+PROD0047,Electronics Item 47,Electronics,Electronics Sub-1,28.67,10.71,143,Supplier-4,2.7,1865
+PROD0048,Food & Grocery Item 48,Food & Grocery,Food & Grocery Sub-3,26.6,13.57,264,Supplier-13,5.0,12
+PROD0049,Food & Grocery Item 49,Food & Grocery,Food & Grocery Sub-1,34.84,13.33,301,Supplier-17,5.0,985
+PROD0050,Automotive Item 50,Automotive,Automotive Sub-2,29.59,12.1,40,Supplier-6,3.9,1807
+PROD0051,Beauty Item 51,Beauty,Beauty Sub-4,27.28,17.17,459,Supplier-1,4.8,559
+PROD0052,Automotive Item 52,Automotive,Automotive Sub-2,92.67,60.07,209,Supplier-9,4.6,1307
+PROD0053,Toys Item 53,Toys,Toys Sub-1,37.91,14.94,56,Supplier-6,2.6,1082
+PROD0054,Books Item 54,Books,Books Sub-2,62.88,35.88,452,Supplier-16,3.4,880
+PROD0055,Beauty Item 55,Beauty,Beauty Sub-4,83.78,51.1,272,Supplier-2,3.7,717
+PROD0056,Home & Garden Item 56,Home & Garden,Home & Garden Sub-3,46.96,30.29,485,Supplier-17,2.9,261
+PROD0057,Clothing Item 57,Clothing,Clothing Sub-2,13.83,6.93,449,Supplier-9,3.4,1540
+PROD0058,Books Item 58,Books,Books Sub-1,9.8,3.52,483,Supplier-14,3.1,1336
+PROD0059,Beauty Item 59,Beauty,Beauty Sub-3,37.86,20.66,173,Supplier-5,4.7,1731
+PROD0060,Clothing Item 60,Clothing,Clothing Sub-1,28.39,11.13,99,Supplier-5,4.8,916
+PROD0061,Books Item 61,Books,Books Sub-4,35.83,19.87,317,Supplier-3,3.6,1845
+PROD0062,Toys Item 62,Toys,Toys Sub-2,32.64,13.8,150,Supplier-6,3.7,62
+PROD0063,Sports Item 63,Sports,Sports Sub-4,338.73,188.17,419,Supplier-3,4.7,724
+PROD0064,Electronics Item 64,Electronics,Electronics Sub-1,10.0,5.9,34,Supplier-20,4.5,1970
+PROD0065,Sports Item 65,Sports,Sports Sub-1,5.52,2.35,365,Supplier-7,2.6,1246
+PROD0066,Sports Item 66,Sports,Sports Sub-3,44.66,25.27,257,Supplier-5,3.2,1830
+PROD0067,Sports Item 67,Sports,Sports Sub-3,23.6,14.26,451,Supplier-10,2.5,1756
+PROD0068,Clothing Item 68,Clothing,Clothing Sub-1,44.01,24.85,202,Supplier-15,3.7,586
+PROD0069,Food & Grocery Item 69,Food & Grocery,Food & Grocery Sub-1,56.01,33.76,176,Supplier-6,3.2,520
+PROD0070,Beauty Item 70,Beauty,Beauty Sub-3,105.18,45.08,27,Supplier-18,3.0,1095
+PROD0071,Beauty Item 71,Beauty,Beauty Sub-1,8.53,4.2,317,Supplier-7,3.6,1606
+PROD0072,Food & Grocery Item 72,Food & Grocery,Food & Grocery Sub-1,20.06,7.11,351,Supplier-11,3.1,1220
+PROD0073,Clothing Item 73,Clothing,Clothing Sub-2,48.71,24.89,491,Supplier-17,3.8,523
+PROD0074,Food & Grocery Item 74,Food & Grocery,Food & Grocery Sub-4,66.25,39.17,290,Supplier-19,3.6,1200
+PROD0075,Food & Grocery Item 75,Food & Grocery,Food & Grocery Sub-2,238.44,146.75,391,Supplier-20,2.7,644
+PROD0076,Automotive Item 76,Automotive,Automotive Sub-2,78.27,47.06,53,Supplier-9,4.6,1394
+PROD0077,Home & Garden Item 77,Home & Garden,Home & Garden Sub-3,31.47,14.57,18,Supplier-3,4.7,1225
+PROD0078,Food & Grocery Item 78,Food & Grocery,Food & Grocery Sub-4,14.86,8.37,89,Supplier-9,2.8,417
+PROD0079,Food & Grocery Item 79,Food & Grocery,Food & Grocery Sub-2,19.93,10.52,83,Supplier-17,3.1,1163
+PROD0080,Clothing Item 80,Clothing,Clothing Sub-2,19.43,12.49,330,Supplier-18,3.7,802
+PROD0081,Home & Garden Item 81,Home & Garden,Home & Garden Sub-2,59.72,38.52,264,Supplier-17,4.8,1457
+PROD0082,Office Supplies Item 82,Office Supplies,Office Supplies Sub-2,41.73,16.71,62,Supplier-2,4.5,30
+PROD0083,Home & Garden Item 83,Home & Garden,Home & Garden Sub-2,10.06,4.05,1,Supplier-1,2.7,1069
+PROD0084,Toys Item 84,Toys,Toys Sub-4,22.37,10.74,58,Supplier-2,4.8,1040
+PROD0085,Office Supplies Item 85,Office Supplies,Office Supplies Sub-4,72.95,41.18,62,Supplier-1,3.9,1674
+PROD0086,Books Item 86,Books,Books Sub-2,45.44,20.98,407,Supplier-3,3.2,1878
+PROD0087,Sports Item 87,Sports,Sports Sub-3,55.25,34.73,332,Supplier-8,4.1,174
+PROD0088,Office Supplies Item 88,Office Supplies,Office Supplies Sub-1,46.74,27.38,141,Supplier-14,4.5,1569
+PROD0089,Food & Grocery Item 89,Food & Grocery,Food & Grocery Sub-2,143.13,58.47,158,Supplier-14,4.7,1205
+PROD0090,Beauty Item 90,Beauty,Beauty Sub-1,40.95,14.76,101,Supplier-1,3.6,1539
+PROD0091,Toys Item 91,Toys,Toys Sub-2,23.4,8.21,418,Supplier-9,4.9,1950
+PROD0092,Office Supplies Item 92,Office Supplies,Office Supplies Sub-4,14.52,6.99,38,Supplier-11,2.5,1411
+PROD0093,Electronics Item 93,Electronics,Electronics Sub-4,41.46,19.89,459,Supplier-13,3.6,188
+PROD0094,Clothing Item 94,Clothing,Clothing Sub-1,5.0,3.11,201,Supplier-12,3.2,177
+PROD0095,Clothing Item 95,Clothing,Clothing Sub-2,28.05,18.12,0,Supplier-15,3.9,205
+PROD0096,Toys Item 96,Toys,Toys Sub-3,27.52,16.01,240,Supplier-2,3.8,30
+PROD0097,Beauty Item 97,Beauty,Beauty Sub-2,9.7,4.65,280,Supplier-7,3.2,288
+PROD0098,Toys Item 98,Toys,Toys Sub-4,14.36,5.71,310,Supplier-15,4.5,1081
+PROD0099,Sports Item 99,Sports,Sports Sub-4,68.63,35.51,266,Supplier-19,2.8,1083
+PROD0100,Automotive Item 100,Automotive,Automotive Sub-1,40.76,18.72,189,Supplier-19,3.6,743
+PROD0101,Automotive Item 101,Automotive,Automotive Sub-1,36.29,18.9,459,Supplier-13,2.6,1217
+PROD0102,Sports Item 102,Sports,Sports Sub-2,43.63,15.56,44,Supplier-5,3.6,1436
+PROD0103,Beauty Item 103,Beauty,Beauty Sub-4,35.99,21.77,323,Supplier-17,3.9,1701
+PROD0104,Home & Garden Item 104,Home & Garden,Home & Garden Sub-4,101.35,35.92,500,Supplier-3,3.9,11
+PROD0105,Office Supplies Item 105,Office Supplies,Office Supplies Sub-3,37.01,23.33,481,Supplier-3,4.5,739
+PROD0106,Beauty Item 106,Beauty,Beauty Sub-3,8.91,5.72,60,Supplier-15,3.7,595
+PROD0107,Clothing Item 107,Clothing,Clothing Sub-2,143.61,71.3,197,Supplier-20,3.0,152
+PROD0108,Clothing Item 108,Clothing,Clothing Sub-2,46.22,20.06,311,Supplier-19,3.5,282
+PROD0109,Toys Item 109,Toys,Toys Sub-3,19.49,7.86,72,Supplier-20,4.9,684
+PROD0110,Food & Grocery Item 110,Food & Grocery,Food & Grocery Sub-1,10.72,5.2,415,Supplier-9,4.3,750
+PROD0111,Books Item 111,Books,Books Sub-2,47.29,18.04,283,Supplier-12,4.2,763
+PROD0112,Automotive Item 112,Automotive,Automotive Sub-1,29.8,13.28,399,Supplier-17,2.8,1730
+PROD0113,Office Supplies Item 113,Office Supplies,Office Supplies Sub-2,136.56,52.97,445,Supplier-12,3.7,0
+PROD0114,Office Supplies Item 114,Office Supplies,Office Supplies Sub-1,24.26,15.32,25,Supplier-3,4.1,449
+PROD0115,Beauty Item 115,Beauty,Beauty Sub-4,15.59,6.74,27,Supplier-15,2.9,1694
+PROD0116,Home & Garden Item 116,Home & Garden,Home & Garden Sub-3,74.16,44.81,240,Supplier-6,3.8,1883
+PROD0117,Food & Grocery Item 117,Food & Grocery,Food & Grocery Sub-3,76.15,46.93,453,Supplier-9,2.5,182
+PROD0118,Automotive Item 118,Automotive,Automotive Sub-2,38.54,15.35,134,Supplier-15,3.1,279
+PROD0119,Toys Item 119,Toys,Toys Sub-1,60.87,28.42,478,Supplier-18,4.8,1627
+PROD0120,Beauty Item 120,Beauty,Beauty Sub-1,32.01,15.83,30,Supplier-12,4.9,1313
+PROD0121,Electronics Item 121,Electronics,Electronics Sub-1,40.87,15.73,190,Supplier-1,4.0,1728
+PROD0122,Automotive Item 122,Automotive,Automotive Sub-1,94.49,60.88,336,Supplier-3,3.3,875
+PROD0123,Clothing Item 123,Clothing,Clothing Sub-1,58.14,33.32,116,Supplier-15,2.6,1166
+PROD0124,Home & Garden Item 124,Home & Garden,Home & Garden Sub-2,28.44,10.33,236,Supplier-3,4.5,1215
+PROD0125,Beauty Item 125,Beauty,Beauty Sub-1,111.85,39.3,247,Supplier-9,4.8,1699
+PROD0126,Clothing Item 126,Clothing,Clothing Sub-3,5.0,2.59,167,Supplier-10,3.1,1322
+PROD0127,Home & Garden Item 127,Home & Garden,Home & Garden Sub-4,209.95,99.51,284,Supplier-19,3.0,1756
+PROD0128,Toys Item 128,Toys,Toys Sub-3,7.13,2.78,131,Supplier-9,4.9,1568
+PROD0129,Clothing Item 129,Clothing,Clothing Sub-4,18.83,11.31,45,Supplier-20,4.5,1054
+PROD0130,Home & Garden Item 130,Home & Garden,Home & Garden Sub-4,31.92,13.11,159,Supplier-18,2.7,1846
+PROD0131,Clothing Item 131,Clothing,Clothing Sub-1,29.03,12.41,23,Supplier-5,3.4,1149
+PROD0132,Office Supplies Item 132,Office Supplies,Office Supplies Sub-4,81.92,34.12,93,Supplier-3,3.7,607
+PROD0133,Sports Item 133,Sports,Sports Sub-3,12.78,6.15,268,Supplier-8,3.3,1880
+PROD0134,Home & Garden Item 134,Home & Garden,Home & Garden Sub-4,41.88,21.32,207,Supplier-9,4.9,891
+PROD0135,Electronics Item 135,Electronics,Electronics Sub-4,19.68,9.53,301,Supplier-18,3.0,1469
+PROD0136,Books Item 136,Books,Books Sub-3,43.19,27.18,257,Supplier-7,3.9,1981
+PROD0137,Home & Garden Item 137,Home & Garden,Home & Garden Sub-3,31.24,18.43,195,Supplier-10,3.5,282
+PROD0138,Food & Grocery Item 138,Food & Grocery,Food & Grocery Sub-1,36.0,16.17,27,Supplier-15,4.5,1898
+PROD0139,Books Item 139,Books,Books Sub-1,20.19,9.45,229,Supplier-20,3.3,163
+PROD0140,Beauty Item 140,Beauty,Beauty Sub-4,20.92,8.32,289,Supplier-6,4.3,19
+PROD0141,Office Supplies Item 141,Office Supplies,Office Supplies Sub-1,42.89,21.97,170,Supplier-11,2.8,1010
+PROD0142,Books Item 142,Books,Books Sub-1,77.43,42.57,307,Supplier-4,4.7,204
+PROD0143,Clothing Item 143,Clothing,Clothing Sub-1,19.33,9.45,259,Supplier-13,2.7,1406
+PROD0144,Electronics Item 144,Electronics,Electronics Sub-2,15.15,6.8,151,Supplier-15,4.2,110
+PROD0145,Home & Garden Item 145,Home & Garden,Home & Garden Sub-2,57.52,31.07,207,Supplier-20,3.4,478
+PROD0146,Beauty Item 146,Beauty,Beauty Sub-3,32.16,18.0,42,Supplier-6,5.0,1828
+PROD0147,Clothing Item 147,Clothing,Clothing Sub-2,69.93,28.3,461,Supplier-11,4.5,1843
+PROD0148,Office Supplies Item 148,Office Supplies,Office Supplies Sub-3,14.66,8.97,30,Supplier-1,2.9,855
+PROD0149,Electronics Item 149,Electronics,Electronics Sub-1,6.68,2.98,172,Supplier-7,4.7,1905
+PROD0150,Home & Garden Item 150,Home & Garden,Home & Garden Sub-3,20.5,13.12,335,Supplier-19,3.1,1297
